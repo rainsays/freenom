@@ -260,4 +260,4 @@ TELEGRAM_BOT_TOKEN、TELEGRAM_BOT_ENABLE、NOTICE_FREQ
 - [guzzle](https://github.com/guzzle/guzzle) （Curl库）
 
 ### 🥝 开源协议
-[MIT](https://opensource.org/licenses/mit-license.php)
+[MIT](https://opensource.org/licenses/mit-license.php) 
